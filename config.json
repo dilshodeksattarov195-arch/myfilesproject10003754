@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheverify",
+        "uuid": 24138220,
+        "checksum": "9kbjrp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
